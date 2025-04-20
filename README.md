@@ -26,5 +26,5 @@ Cold email generator for services company using groq, langchain and streamlit. I
    ```
 
 ## Acknowledgements
-This project is based on the excellent work by codebasics(https://github.com/codebasics) in the project-genai-cold-email-generator repository(https://github.com/codebasics/project-genai-cold-email-generator).
+This project is based on the excellent work by [codebasics](https://github.com/codebasics) in the [project-genai-cold-email-generator](https://github.com/codebasics/project-genai-cold-email-generator) repository.
 I have made modifications/customizations to suit the goals of this project.
